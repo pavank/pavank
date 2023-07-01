@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavank
-- 👀 I’m interested in Data Engineering, Database Internals and Distributed Systems
-- 💞️ I’m looking to collaborate on Generative AI Technologies
+- 👀 Working on niche generative AI ideas.(e.g:@roominteriors.ai)
+- In the past, I worked in Data Engineering, and Distributed Systems
 - 📫 How to reach me pavan@bitslab.tech
 
 <!---
