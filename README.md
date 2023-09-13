@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavank
-- 👀 Working on niche generative AI ideas.(e.g:@roominteriors.ai)
-- In the past, I worked in Data Engineering, and Distributed Systems
+- 👀 Working on Applied AI at the intersection of Knowledge Graph and LLM
+- ⌛ In the past, I worked in Data Engineering and Data Analytics
 - 📫 How to reach me pavan@bitslab.tech
 
 <!---
