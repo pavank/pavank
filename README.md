@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pavank
-- 👀 Working on Applied AI at the intersection of Knowledge Graph and LLM
+- 👀 Learning to integrate Knowledge and Structure with Language Models to build useful AI agents
 - ⌛ In the past, I worked in Data Engineering and Data Analytics
 - 📫 How to reach me pavan@bitslab.tech
 
