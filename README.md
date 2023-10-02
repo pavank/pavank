@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavank
 - 👀 Learning to integrate Knowledge and Structure with Language Models to build useful AI agents
-- ⌛ In the past, I worked in Data Engineering and Data Analytics
+- ⌛ I work in Data Engineering and Data Analytics
 - 📫 How to reach me pavan@bitslab.tech
 
 <!---
